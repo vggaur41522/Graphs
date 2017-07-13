@@ -5,16 +5,16 @@ I have done it two ways. One is Generic Implementation where Data Type in Graph 
 ---
 ## Graph processing:
 
-[Generic DFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
+**[Generic DFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
 
 
-[Generic BFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
+**[Generic BFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
 
 
-[Non Generic DFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
+**[Non Generic DFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
 
 
-[Non Generic BFS] (https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
+**[Non Generic BFS](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
 
 
-[IsCyclic](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
+**[IsCyclic](https://github.com/vggaur41522/Graphs/tree/master/src/GenericGraph)
